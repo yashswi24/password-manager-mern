@@ -7,7 +7,7 @@ A Password Manager project created using the MERN stack. You can login and save 
 Go to the folder in which you want to clone the project and run the following command
 
 ```bash
-git clone https://github.com/rockingrohit9639/password-manager-mern.git
+git clone https://github.com/yashswi24/password-manager-mern.git
 ```
 
 ## Setting up the Server
